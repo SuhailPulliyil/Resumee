@@ -1,0 +1,38 @@
+<A HREF"" > 
+img src"location"alt="Alternate text" style="
+ ul>unordered list
+<li>
+
+</li>
+
+<ol>
+
+ordered list
+</ol>
+
+<table>
+<form>
+text align
+
+style="text-align:center"
+or float=center
+<dl>
+	<dt>""Data</dt>
+		<dd> ""Description of above Data"</dd>
+</dl>
+
+
+CSS(Cascading Style)
+head section
+
+<style>
+
+body
+{
+backgd
+
+font-family
+font size
+
+
+
